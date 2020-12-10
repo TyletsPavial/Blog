@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="XML/Convert text to CData" />
+  </component>
+</application>

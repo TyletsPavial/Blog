@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="JDBCInterface" type="CLASS" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="Core.java" type="PLAIN_TEXT" />
+      <mapping pattern="JDBCInterface.java" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
